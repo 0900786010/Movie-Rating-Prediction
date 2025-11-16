@@ -132,5 +132,6 @@ This plot compares true ratings vs model predictions to show model accuracy.
 ![Actual vs Predicted](actual_vs_predicted.png)
 
 # 👤 Author
-**Arfat Abid**
+**Umer Raza**
+
 
